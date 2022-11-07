@@ -6,6 +6,8 @@
 
 **[YouTube 강의](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)** 
 
+**[강의 슬라이드](http://bit.ly/2VrZcWM)**
+
 
 python 3.8, PyTorch 1.13 버전에서 작성되었습니다.
 

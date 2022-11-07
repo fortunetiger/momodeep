@@ -1,6 +1,6 @@
 # fortunetiger/Momodeep
 
-모두를 위한 딥러닝 시즌 2 강의를 바탕으로 작성하는 노트북 Repository 입니다.
+모두를 위한 딥러닝 시즌 2 강의를 바탕으로 작성하는 노트북 레포입니다.
 
 **[공식 레포](https://github.com/deeplearningzerotoall/PyTorch)**
 

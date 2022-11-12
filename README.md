@@ -12,7 +12,7 @@
 python 3.8, PyTorch 1.13 버전에서 작성되었습니다.
 
 
-## 목차(업데이트 예정)
+## 목차
 
 ### PART 1: Machine Learning & PyTorch Basic 
 
